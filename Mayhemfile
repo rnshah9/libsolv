@@ -1,4 +1,5 @@
+project: rnshah9/libsolv
+target: libsolv
 
 cmds:
-  - cmd: /fuzzme @@
-    # filepath: /test.c
+  - cmd: /repo/build/tools/dumpsolv @@
