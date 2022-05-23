@@ -1,0 +1,4 @@
+
+cmds:
+  - cmd: /fuzzme @@
+    # filepath: /test.c
