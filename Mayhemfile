@@ -1,6 +1,5 @@
-project: rnshah9/libsolv
+project: libsolv
 target: libsolv
 
 cmds:
-  - cmd: /repo/build/tools/dumpsolv @@
   - cmd: /repo/build/tools/mergesolv @@
