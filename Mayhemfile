@@ -2,4 +2,4 @@ project: libsolv
 target: libsolv
 
 cmds:
-  - cmd: /repo/build/tools/mergesolv @@
+  - cmd: /install/bin/mergesolv @@
